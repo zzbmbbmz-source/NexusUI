@@ -10,7 +10,7 @@
 --  LOAD LIBRARY
 -- ─────────────────────────────────────────────
 local NexusUI = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/zzbmbbmz-source/Roblox/refs/heads/main/NexusUI.lua",
+    "https://raw.githubusercontent.com/zzbmbbmz-source/NexusUI/refs/heads/main/NexusUI.lua",
     true -- nocache: ป้องกัน GitHub CDN cache ทำให้ได้ไฟล์เวอร์ชันเก่า
 ))()
 
